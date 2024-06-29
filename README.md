@@ -43,7 +43,7 @@
       </p>
     </td>
     <td>
-      <img src="https://giphy.com/gifs/toprank-cristiano-ronaldo-9Gja0BFKtLkW85iXPH" alt="GIF" width="200" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJidDl5dzl1cHM1bW1ycDU0aGdsMTJmbzk1eHV4OXFjdXZmMm51ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gja0BFKtLkW85iXPH/giphy.gif" alt="GIF" width="200" />
     </td>
   </tr>
 </table>
