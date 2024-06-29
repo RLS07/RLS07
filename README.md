@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-      <p align="left">
+      <h1 align="left">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -39,7 +39,7 @@
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-      </p>
+      </h1>
     </td>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJidDl5dzl1cHM1bW1ycDU0aGdsMTJmbzk1eHV4OXFjdXZmMm51ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gja0BFKtLkW85iXPH/giphy.gif" alt="GIF" width="200" />
