@@ -1,6 +1,6 @@
 <img src='https://images.wallpapersden.com/image/download/goat-cristiano-ronaldo-2021_bG1taWeUmZqaraWkpJRnamtlrWZlbWU.jpg'>
 <h1 align="center">Hi 👋, I'm Rojan Lal Shrestha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer | learner from Nepal. 🇳🇵</h3>
 
 - 🔭 I’m currently working on [Medusafe](PRIVATE)
 
