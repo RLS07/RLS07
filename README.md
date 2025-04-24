@@ -1,9 +1,6 @@
-<img src='https://images.wallpapersden.com/image/download/goat-cristiano-ronaldo-2021_bG1taWeUmZqaraWkpJRnamtlrWZlbWU.jpg'>
 <h1 align="center">Muchas gracias afición, esto es para vosotros SIUUUU🐐🇳🇵</h1>
 
-- 🌱 I’m currently learning **React Native | Node | MongoDb | ML**
-
-- ⚡ Fun fact **SIIIIIIIIIIIUUUUUUUU**
+- 🌱 I’m currently learning Express
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
